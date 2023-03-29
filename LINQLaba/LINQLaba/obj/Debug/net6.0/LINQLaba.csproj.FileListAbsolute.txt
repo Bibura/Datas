@@ -1,0 +1,15 @@
+G:\Projects\LINQLaba\LINQLaba\bin\Debug\net6.0\LINQLaba.exe
+G:\Projects\LINQLaba\LINQLaba\bin\Debug\net6.0\LINQLaba.deps.json
+G:\Projects\LINQLaba\LINQLaba\bin\Debug\net6.0\LINQLaba.runtimeconfig.json
+G:\Projects\LINQLaba\LINQLaba\bin\Debug\net6.0\LINQLaba.dll
+G:\Projects\LINQLaba\LINQLaba\bin\Debug\net6.0\LINQLaba.pdb
+G:\Projects\LINQLaba\LINQLaba\obj\Debug\net6.0\LINQLaba.csproj.AssemblyReference.cache
+G:\Projects\LINQLaba\LINQLaba\obj\Debug\net6.0\LINQLaba.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\LINQLaba\LINQLaba\obj\Debug\net6.0\LINQLaba.AssemblyInfoInputs.cache
+G:\Projects\LINQLaba\LINQLaba\obj\Debug\net6.0\LINQLaba.AssemblyInfo.cs
+G:\Projects\LINQLaba\LINQLaba\obj\Debug\net6.0\LINQLaba.csproj.CoreCompileInputs.cache
+G:\Projects\LINQLaba\LINQLaba\obj\Debug\net6.0\LINQLaba.dll
+G:\Projects\LINQLaba\LINQLaba\obj\Debug\net6.0\refint\LINQLaba.dll
+G:\Projects\LINQLaba\LINQLaba\obj\Debug\net6.0\LINQLaba.pdb
+G:\Projects\LINQLaba\LINQLaba\obj\Debug\net6.0\LINQLaba.genruntimeconfig.cache
+G:\Projects\LINQLaba\LINQLaba\obj\Debug\net6.0\ref\LINQLaba.dll
